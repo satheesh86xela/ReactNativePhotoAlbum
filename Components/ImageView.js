@@ -13,7 +13,6 @@ import {
 } from 'react-native';
 
 export default class ImageView extends Component {
-  
   render() {
     let {state} = this.props.navigation;  
     return (
