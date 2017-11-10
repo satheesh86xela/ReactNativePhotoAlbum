@@ -1,4 +1,4 @@
-# ReactNativePhotoAlbum
+# PhotoAlbum POC using React Native
 
 Run the command in Terminal/Command Prompt $ npm install -g react-native-cli
 
@@ -17,3 +17,6 @@ Open another Terminal and Run the following command. this opens iOS simulator to
 Run the below command if you want to run the app in Android Virtural Device
 - $ react-native run-android
 
+Installation Guidlines:
+Setup Project/Android VM/iOS Simulator
+https://facebook.github.io/react-native/docs/getting-started.html
