@@ -1,4 +1,4 @@
-# ReactNativePhotoAlum
+# ReactNativePhotoAlbum
 
 Run the command in Terminal/Command Prompt $ npm install -g react-native-cli
 
